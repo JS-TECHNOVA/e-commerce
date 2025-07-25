@@ -11,6 +11,7 @@ import ProductList from './components/ProductList';
 
 
 const router = createBrowserRouter([
+  
   {
     path: "/",
     Component: MainLayout,
